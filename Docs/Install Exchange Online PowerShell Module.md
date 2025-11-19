@@ -1,0 +1,3 @@
+# Documentation: Why Install Exchange Online Modules?
+
+Installing Exchange Online modules is essential for administrators who need to manage and automate tasks in Microsoft 365 Exchange Online environments. These modules provide PowerShell cmdlets that enable you to perform advanced management operations, such as configuring mailboxes, managing recipients, setting policies, and handling compliance tasks. Without these modules, many administrative functions cannot be performed remotely or automated efficiently. The Exchange Online modules also ensure secure connectivity and support modern authentication methods, which are required for compliance and security in cloud environments.
