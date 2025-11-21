@@ -1,3 +1,5 @@
+# PLease read documentation for this script.
+
 # Install Microsoft Exchange Online Management module if not already installed
 if (-not (Get-Module -ListAvailable -Name ExchangeOnlineManagement)) {
     Write-Host "Installing Exchange Online Management module..."
